@@ -6,6 +6,7 @@ import dotenv from "dotenv";
 import errorMiddleware from "./middlewares/errorHandler.middleware.js";
 import cors from 'cors'
 import auth from "./routes/auth.js";
+import product from "./routers/product.js";
 
 dotenv.config();
 const app = express();
@@ -23,6 +24,7 @@ app.use(cors());
 //routes
 // example
 app.use("/api", auth);
+
 
 
 
