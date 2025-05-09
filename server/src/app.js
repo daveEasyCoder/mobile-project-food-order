@@ -24,7 +24,7 @@ app.use(cors());
 //routes
 // example
 app.use("/api", auth);
-
+app.use("/api", product);
 
 
 
