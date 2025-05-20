@@ -34,6 +34,7 @@ export default function Home() {
      setSearch(event.target.value)
   }
 
+  // start the useEffect function here
   useEffect(() => {
 
     const getData = async () => {
