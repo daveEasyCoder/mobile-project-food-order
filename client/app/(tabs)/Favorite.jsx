@@ -6,6 +6,7 @@ import Icon from "react-native-vector-icons/MaterialIcons";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useNavigation } from "expo-router";
 
+//the function that contains the favorite page , it helps to put the loved items to this part
 const Favorite = () => {
   const { favorite } = useFavorite()
  
