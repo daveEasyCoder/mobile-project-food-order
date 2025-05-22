@@ -16,22 +16,15 @@ This app provides a seamless user experience for browsing food items, viewing de
 
 ## 🎨 UI/UX Screens (9 Total)
 
-![Welcome Screen](./welcome.png)
 
-![Login Screen](./assets/login.png)
 
-![Login Screen](./assets/signup.png)
+<img src="profile.png" alt="Splash Screen" width="300"/>
+<img src="profile.png" alt="Splash Screen" width="300"/>
+<img src="profile.png" alt="Splash Screen" width="300"/>
+<img src="profile.png" alt="Splash Screen" width="300"/>
+<img src="profile.png" alt="Splash Screen" width="300"/>
+<img src="profile.png" alt="Splash Screen" width="300"/>
 
-![Home Screen](/home.png)
-
-![Signup Screen](profile.png)
-![Checkout Screen](./assets/profileEdit.png)
-![Details Screen](./assets/details.png)
-
-![Cart Screen](./assets/cart.png)
-![Checkout Screen](./assets/addproduct.png)
-![Checkout Screen](./assets/editproduct.png)
-![Checkout Screen](./assets/adminDashboard.png)
 
 
 
