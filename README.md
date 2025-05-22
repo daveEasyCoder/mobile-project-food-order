@@ -16,44 +16,35 @@ This app provides a seamless user experience for browsing food items, viewing de
 
 ## 🎨 UI/UX Screens (9 Total)
 
-1. **Splash Screen**
-   - Displays app logo with a smooth intro animation.
+![Welcome Screen](./assets/welcome.png)
 
-2. **Welcome Screen**
-   - A brief welcome message and a "Get Started" or "Continue" button.
+![Login Screen](./assets/login.png)
 
-3. **Login/Signup Screen**
-   - User authentication screen with options to log in or sign up.
+![Login Screen](./assets/signup.png)
 
-4. **Home Screen**
-   - Lists featured foods, categories, search bar, and navigation to details.
+![Home Screen](./assets/home.png)
 
-5. **Category List Screen**
-   - Displays food items by selected category with thumbnails and pricing.
+![Signup Screen](./assets/profile.png)
+![Checkout Screen](./assets/profileEdit.png)
+![Details Screen](./assets/details.png)
 
-6. **Food Details Screen**
-   - Detailed information about a selected food item, including image, price, description, and "Add to Cart" button.
-
-7. **Cart Screen**
-   - Shows all selected items with quantity modification and total calculation.
-
-8. **Checkout Screen**
-   - Order summary with payment and address info for placing the final order.
-
-9. **Order Confirmation Screen**
-   - Displays a success message after placing an order, with a button to return to home or view orders.
-
----
+![Cart Screen](./assets/cart.png)
+![Checkout Screen](./assets/addproduct.png)
+![Checkout Screen](./assets/editproduct.png)
+![Checkout Screen](./assets/adminDashboard.png)
 
 
----
 
-## ✅ Key Features
+
+
+
+
+## ✅ Features
 
 - Add/remove food items to/from cart
 - Adjust quantity dynamically
-- Real-time price updates in cart
-- Clean and consistent navigation
-- Mobile-responsive layout with attractive visuals
+- Real-time total updates
+- Clean and modern UI
+- Fully responsive mobile design
 
 ---
