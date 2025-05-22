@@ -1,49 +1,59 @@
-# Welcome to your Expo app 👋
+# 🍔 Online Food Order App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern and responsive **Online Food Ordering Android App** built with **React Native**.  
+This app provides a seamless user experience for browsing food items, viewing details, adding to cart, and placing orders—all in one place. Designed with an intuitive UI/UX to enhance usability and visual appeal.
 
-## Get started
-1. Go to root folder
+---
 
-   ```bash
-   cd mobile-app-project
-   ```
+## 🛠️ Tech Stack
+
+- **React Native**
+- **JavaScript**
+- **Android Studio Emulator**
+- **Custom UI Design**
+
+---
+
+## 🎨 UI/UX Screens (9 Total)
+
+1. **Splash Screen**
+   - Displays app logo with a smooth intro animation.
+
+2. **Welcome Screen**
+   - A brief welcome message and a "Get Started" or "Continue" button.
+
+3. **Login/Signup Screen**
+   - User authentication screen with options to log in or sign up.
+
+4. **Home Screen**
+   - Lists featured foods, categories, search bar, and navigation to details.
+
+5. **Category List Screen**
+   - Displays food items by selected category with thumbnails and pricing.
+
+6. **Food Details Screen**
+   - Detailed information about a selected food item, including image, price, description, and "Add to Cart" button.
+
+7. **Cart Screen**
+   - Shows all selected items with quantity modification and total calculation.
+
+8. **Checkout Screen**
+   - Order summary with payment and address info for placing the final order.
+
+9. **Order Confirmation Screen**
+   - Displays a success message after placing an order, with a button to return to home or view orders.
+
+---
 
 
+---
 
-2. Install dependencies
+## ✅ Key Features
 
-   ```bash
-   npm install
-   ```
+- Add/remove food items to/from cart
+- Adjust quantity dynamically
+- Real-time price updates in cart
+- Clean and consistent navigation
+- Mobile-responsive layout with attractive visuals
 
-3. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
