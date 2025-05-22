@@ -18,12 +18,25 @@ This app provides a seamless user experience for browsing food items, viewing de
 
 
 
-<img src="profile.png" alt="Splash Screen" width="300"/>
-<img src="profile.png" alt="Splash Screen" width="300"/>
-<img src="profile.png" alt="Splash Screen" width="300"/>
-<img src="profile.png" alt="Splash Screen" width="300"/>
-<img src="profile.png" alt="Splash Screen" width="300"/>
-<img src="profile.png" alt="Splash Screen" width="300"/>
+<p align="center">
+  <img src="welcome.png" alt="welcome ui" width="200"/>
+  <img src="signin.png" alt="login ui" width="200"/>
+  <img src="signup.png" alt="signup ui" width="200"/>
+  <img src="home.png" alt="Home ui" width="200"/>
+</p>
+
+<p align="center">
+  <img src="favorite.png" alt="Favorite ui" width="200"/>
+  <img src="details.png" alt="Details" width="200"/>
+  <img src="profile.png" alt="Profile ui" width="200"/>
+  <img src="profileEdit.png" alt="ProfileEdit ui" width="200"/>
+</p>
+
+<p align="center">
+  <img src="cart" alt="Cart ui" width="200"/>
+</p>
+
+
 
 
 
