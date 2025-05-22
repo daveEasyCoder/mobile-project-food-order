@@ -16,15 +16,15 @@ This app provides a seamless user experience for browsing food items, viewing de
 
 ## 🎨 UI/UX Screens (9 Total)
 
-![Welcome Screen](./assets/welcome.png)
+![Welcome Screen](./welcome.png)
 
 ![Login Screen](./assets/login.png)
 
 ![Login Screen](./assets/signup.png)
 
-![Home Screen](./assets/home.png)
+![Home Screen](/home.png)
 
-![Signup Screen](./assets/profile.png)
+![Signup Screen](profile.png)
 ![Checkout Screen](./assets/profileEdit.png)
 ![Details Screen](./assets/details.png)
 
