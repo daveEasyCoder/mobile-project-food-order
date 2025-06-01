@@ -11,7 +11,7 @@ import { useFavorite } from "../GlobalContext/FavoriteContext";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 var {width,height} = Dimensions.get('window')
 import axios from "axios";
-
+//updated
 
 export default function Home() {
 
