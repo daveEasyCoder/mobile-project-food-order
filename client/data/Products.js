@@ -1,0 +1,160 @@
+const SampleProduct = [
+  {
+    id: 1,
+    title: "Spaghetti Carbonara",
+    price: 12.99,
+    detail: `Spaghetti Carbonara is a traditional Italian pasta dish that originates from Rome. This dish is known for its creamy, rich flavor that comes from a combination of eggs, cheese, pancetta, and pepper. Unlike many creamy pasta dishes, Carbonara does not use cream; instead, it relies on the emulsion of eggs and cheese to create its signature silky sauce.`,
+    ingredients: [
+      "Spaghetti pasta",
+      "Egg yolks",
+      "Parmesan cheese",
+      "Pancetta (or bacon)",
+      "Black pepper",
+      "Garlic"
+    ],
+    image: require("../assets/images/picture1.jpg"),
+  },
+  {
+    id: 2,
+    title: "Grilled Salmon",
+    price: 18.99,
+    detail: `Grilled salmon is a delicious and healthy dish that brings out the natural flavors of the fish. With a crispy, golden-brown skin and a tender, flaky interior, this dish is a perfect balance of texture and taste. It is often served with a side of fresh vegetables or a light salad, making it an ideal choice for those looking for a nutritious meal.`,
+    ingredients: [
+      "Salmon fillet",
+      "Olive oil",
+      "Lemon",
+      "Garlic",
+      "Salt and pepper",
+      "Fresh herbs (thyme, dill)",
+    ],
+    image: require("../assets/images/picture2.jpg"),
+  },
+  {
+    id: 3,
+    title: "Chicken Alfredo",
+    price: 14.99,
+    detail: `Chicken Alfredo is a creamy and delicious pasta dish that combines rich flavors with a smooth, velvety texture. Originating from Italy, this dish has become a staple in many households worldwide due to its comforting taste and simple ingredients.`,
+    ingredients: [
+      "Fettuccine pasta",
+      "Chicken breast",
+      "Heavy cream",
+      "Parmesan cheese",
+      "Garlic",
+      "Butter",
+      "Black pepper"
+    ],
+    image: require("../assets/images/picture3.jpg"),
+  },
+  {
+    id: 4,
+    title: "Margherita Pizza",
+    price: 10.99,
+    detail: `Margherita Pizza is a classic Italian dish that showcases simple, fresh ingredients in a delicious and balanced way. The base is a thin, crispy pizza crust topped with rich tomato sauce, fresh mozzarella cheese, and fragrant basil leaves.`,
+    ingredients: [
+      "Pizza dough",
+      "Tomato sauce",
+      "Fresh mozzarella",
+      "Fresh basil",
+      "Olive oil",
+      "Salt"
+    ],
+    image: require("../assets/images/picture4.jpg"),
+  },
+  {
+    id: 5,
+    title: "Beef Burger",
+    price: 11.99,
+    detail: `A juicy and flavorful beef burger served in a soft brioche bun with crispy lettuce, melted cheese, and a special sauce. This classic American dish is loved worldwide for its satisfying taste and versatility.`,
+    ingredients: [
+      "Ground beef",
+      "Burger buns",
+      "Cheddar cheese",
+      "Lettuce",
+      "Tomato",
+      "Pickles",
+      "Burger sauce"
+    ],
+    image: require("../assets/images/picture5.webp"),
+  },
+  {
+    id: 6,
+    title: "Chocolate Lava Cake",
+    price: 8.99,
+    detail: `A decadent chocolate dessert with a warm, gooey center that melts in your mouth. Served with vanilla ice cream for the perfect balance between rich and refreshing flavors.`,
+    ingredients: [
+      "Dark chocolate",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Flour",
+      "Vanilla extract",
+      "Cocoa powder"
+    ],
+    image: require("../assets/images/picture6.jpg"),
+  },
+  {
+    id: 7,
+    title: "Caesar Salad",
+    price: 9.99,
+    detail: `Caesar Salad is a classic and refreshing dish that combines crisp romaine lettuce with a creamy, tangy Caesar dressing. The salad is topped with crunchy croutons and freshly grated Parmesan cheese, offering a satisfying contrast of textures.`,
+    ingredients: [
+      "Romaine lettuce",
+      "Caesar dressing",
+      "Parmesan cheese",
+      "Croutons",
+      "Lemon juice",
+      "Garlic"
+    ],
+    image: require("../assets/images/picture7.jpg"),
+  },
+  {
+    id: 8,
+    title: "Tacos al Pastor",
+    price: 13.99,
+    detail: `Tacos al Pastor is a popular Mexican street food dish made with marinated pork, cooked on a vertical spit, and served in soft corn tortillas with a variety of fresh toppings. The combination of savory, smoky, and tangy flavors makes this dish incredibly satisfying.`,
+    ingredients: [
+      "Corn tortillas",
+      "Pork",
+      "Pineapple",
+      "Onions",
+      "Cilantro",
+      "Lime",
+      "Chipotle seasoning"
+    ],
+    image: require("../assets/images/picture8.jpg"),
+  },
+  {
+    id: 9,
+    title: "Sushi Platter",
+    price: 21.99,
+    detail: `Sushi is a delicate and flavorful Japanese dish that features vinegared rice, seafood, and vegetables. The sushi platter includes a variety of rolls, sashimi, and nigiri, offering a wide range of tastes and textures.`,
+    ingredients: [
+      "Sushi rice",
+      "Nori (seaweed)",
+      "Salmon",
+      "Tuna",
+      "Avocado",
+      "Soy sauce",
+      "Wasabi",
+    ],
+    image: require("../assets/images/picture9.jpg"),
+  },
+  {
+    id: 10,
+    title: "Pancakes with Maple Syrup",
+    price: 7.99,
+    detail: `Soft, fluffy pancakes drizzled with golden maple syrup make for the perfect breakfast or dessert. This dish is incredibly versatile and can be customized with a variety of toppings, such as fresh berries, whipped cream, or chocolate chips.`,
+    ingredients: [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Baking powder",
+      "Sugar",
+      "Butter",
+      "Maple syrup",
+    ],
+    image: require("../assets/images/picture10.jpg"),
+  },
+];
+
+export default SampleProduct
