@@ -1,12 +1,12 @@
    Group Member                  ID No.
-1. Mulugeta Abeje                ugr/30972/15
-2. Ezra Leye                     ugr/30516/15
-3. KENENI ASEFA                  UGR/30768/15
-4. BETSELOT TIGISTU              UGR/30296/15
-5. DAWIT TIRUNEHE                UGR/30393/15
-6. ABDURAHMAN ELIAS              UGR/30039/15
-7. ABDULHAFIZ REDWAN             UGR/30028/15
-8. BEREKET MUSSIE                UGR/30272/15
+1. Mulugeta Abeje       &nbsp;&nbsp;         ugr/30972/15
+2. Ezra Leye              &nbsp;&nbsp;       ugr/30516/15
+3. KENENI ASEFA&nbsp;&nbsp;         UGR/30768/15
+4. BETSELOT TIGISTU       &nbsp;&nbsp;       UGR/30296/15
+5. DAWIT TIRUNEHE       &nbsp;&nbsp;         UGR/30393/15
+6. ABDURAHMAN ELIAS&nbsp;&nbsp;      UGR/30039/15
+7. ABDULHAFIZ REDWAN      &nbsp;&nbsp;       UGR/30028/15
+8. BEREKET MUSSIE       &nbsp;&nbsp;         UGR/30272/15
 
 
 
