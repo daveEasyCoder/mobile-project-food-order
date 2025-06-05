@@ -1,3 +1,21 @@
+   Group Member                  ID No.
+1. Mulugeta Abeje                ugr/30972/15
+2. Ezra Leye                     ugr/30516/15
+3. KENENI ASEFA                  UGR/30768/15
+4. BETSELOT TIGISTU              UGR/30296/15
+5. DAWIT TIRUNEHE                UGR/30393/15
+6. ABDURAHMAN ELIAS              UGR/30039/15
+7. ABDULHAFIZ REDWAN             UGR/30028/15
+
+
+
+
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 
